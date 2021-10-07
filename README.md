@@ -63,5 +63,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [RaunakGN2001](https://{github.com/RaunakGN2001})
+- GitHub [@RaunakGN2001](https://github.com/RaunakGN2001)
 
